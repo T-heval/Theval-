@@ -1,0 +1,51 @@
+/*Colors and fonts */
+
+body {
+	background-image: url(images/fond.jpg);
+	color: RGB(255, 255, 0);
+	font-size: 16px; 
+	font-family: Helvetica
+
+}
+h1 {
+  color: 
+	font-size: 30px;
+	font-family: Courier;
+}
+h2, h3, h4, h5 {
+  color: RGB(255, 255, 12);
+	font-size: 22px;
+	font-family: Helvetica;
+}
+p {
+  color:  
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover  {
+  color: yellow;
+}
+
+
+ div{
+ 	background: black ;
+ 	border: 2px solid black;
+ 	margin-bottom: 20px ;
+ 	text-align: center;
+ 	}
+
+.img-cercle{
+	border-radius: 50%;
+}
+
+
+
+
+
+
+  
+
+
